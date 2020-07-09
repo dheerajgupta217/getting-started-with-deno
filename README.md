@@ -1,4 +1,3 @@
-# crud-with-deno
 The complete getting started tutorial can be found at:
 
 
