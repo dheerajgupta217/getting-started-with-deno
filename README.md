@@ -20,6 +20,6 @@ deno run --allow-net server.ts
 GET            /employee
 GET BY ID      /employee/<id>
 POST           /employee
-UPDATE BY ID      /employee/<id>
+UPDATE BY ID   /employee/<id>
 DELETE BY ID   /employee/<id>
 ```
