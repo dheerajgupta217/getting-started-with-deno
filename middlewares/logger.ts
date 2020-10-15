@@ -1,6 +1,6 @@
 import {green,cyan,white,bgRed,} from "https://deno.land/std@0.53.0/fmt/colors.ts";
 const X_RESPONSE_TIME: string = "X-Response-Time";
-  
+  //The color coded logger file is to depict different logging levels and the file name 
 export default {
   logger: async (
     { response, request }: { response: any, request: any },
